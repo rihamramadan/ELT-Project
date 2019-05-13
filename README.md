@@ -1,4 +1,4 @@
-# ELT-Project
+# ELT Project Technical Report
 
 The goal of this project was to prep data using ETL methodology and gain valuble insights from trending video titles on YouTube. The focus was placed on reviewing datasets from English speaking countries such as US, Canada and Britain across a 6 months lifespan. We began the process by extracting the most valuable data points, transforming the dataset and upload the data into a NoSQL database for further analysis. Below was our process:
 
