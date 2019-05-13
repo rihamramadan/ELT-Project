@@ -1,6 +1,6 @@
 # ELT-Project
 
-The goal of this project was to prep data using etl methodology and gain valuble insights while from trending video titles on YouTube. The focus was placed on reviewing datasets from English speaking countries such as US, Canada and Britain across a 6 months lifespan. We began the process by extracting the most valuable data points, transforming the dataset and upload the data into a NoSQL database for further analysis. Below was our process:
+The goal of this project was to prep data using ETL methodology and gain valuble insights from trending video titles on YouTube. The focus was placed on reviewing datasets from English speaking countries such as US, Canada and Britain across a 6 months lifespan. We began the process by extracting the most valuable data points, transforming the dataset and upload the data into a NoSQL database for further analysis. Below was our process:
 
 ### Extract/Data Utilized
 The data was received from a user on Kaggle in the form of CSV files(https://www.kaggle.com/datasnaek/youtube-new). The site had YouTube data from dozens of countries but we only used csv files from Great Britian, Canada and the United States. These countries were chosen because English is the main spoken language and each country had a high use of YouTube. 
