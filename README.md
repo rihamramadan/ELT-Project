@@ -1,4 +1,4 @@
-# ELT-Project
+# ELT Project Technical Report
 
 ### Extract/Data Utilized
 The data was received from Kaggle. The site had YouTube data from dozens of countries but we only used csv files from Great Britian, Canada and the United States. These countries were chosen because English is the main spoken language and each country had a high use of YouTube. 
